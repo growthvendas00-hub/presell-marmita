@@ -163,7 +163,7 @@ function Index() {
           <div className="mx-auto max-w-3xl text-center">
             <h2 className="text-3xl font-bold tracking-tight md:text-4xl">O método completo da MarmitaMaster</h2>
             <p className="mt-4 text-lg leading-relaxed text-muted-foreground">
-              A <strong>Jovem Lanchonete e Pizzaria LTDA</strong> compartilha, neste guia exclusivo, os
+              A <strong>Marmitex Amju</strong> compartilha, neste guia exclusivo, os
               segredos que aprendemos ao longo dos anos para que <em>qualquer pessoa</em> consiga montar
               marmitas saudáveis, saborosas e práticas — sem precisar de experiência em cozinha profissional.
             </p>
@@ -267,7 +267,7 @@ function Index() {
               © 2026 Blog MarmitaMaster. Todos os direitos reservados.
             </p>
             <p className="text-sm opacity-80">
-              Beatriz Danielli Dias | CNPJ: 51.536.628/0001-47
+              Marmitex Amju | CNPJ: 36.584.690/0001-10
             </p>
             <p className="mx-auto mt-4 max-w-3xl text-xs leading-relaxed opacity-75">
               Este site não faz parte do Google Inc. ou do Facebook Inc. Além disso, este site NÃO é endossado
@@ -298,7 +298,7 @@ function Index() {
           <DialogHeader>
             <DialogTitle>Termos de Uso</DialogTitle>
             <DialogDescription>
-              Beatriz Danielli Dias - CNPJ 51.536.628/0001-47
+              Marmitex Amju - CNPJ 36.584.690/0001-10
             </DialogDescription>
           </DialogHeader>
           <div className="space-y-4 text-sm leading-relaxed text-muted-foreground">
@@ -310,7 +310,7 @@ function Index() {
             <p>
               <strong>2. Uso do conteúdo.</strong> Os textos, imagens e materiais disponibilizados podem ser
               consultados livremente pelos usuários para fins pessoais. É vedada a reprodução comercial sem
-              autorização prévia por escrito da Jovem Lanchonete e Pizzaria LTDA.
+              autorização prévia por escrito da Marmitex Amju.
             </p>
             <p>
               <strong>3. Responsabilidade.</strong> As informações nutricionais e culinárias publicadas não
@@ -345,8 +345,8 @@ function Index() {
           </DialogHeader>
           <div className="space-y-4 text-sm leading-relaxed text-muted-foreground">
             <p>
-              <strong>1. Respeito à privacidade.</strong> O Blog MarmitaMaster, mantido pela Jovem
-              Lanchonete e Pizzaria LTDA, respeita integralmente a privacidade de seus visitantes e segue as
+              <strong>1. Respeito à privacidade.</strong> O Blog MarmitaMaster, mantido pela Marmitex
+              Amju, respeita integralmente a privacidade de seus visitantes e segue as
               diretrizes da Lei Geral de Proteção de Dados (LGPD).
             </p>
             <p>
