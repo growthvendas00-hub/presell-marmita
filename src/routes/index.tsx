@@ -267,7 +267,7 @@ function Index() {
               © 2026 Blog MarmitaMaster. Todos os direitos reservados.
             </p>
             <p className="text-sm opacity-80">
-              Jovem Lanchonete e Pizzaria LTDA | CNPJ: 53.139.526/0001-13
+              Beatriz Danielli Dias | CNPJ: 51.536.628/0001-47
             </p>
             <p className="mx-auto mt-4 max-w-3xl text-xs leading-relaxed opacity-75">
               Este site não faz parte do Google Inc. ou do Facebook Inc. Além disso, este site NÃO é endossado
@@ -298,7 +298,7 @@ function Index() {
           <DialogHeader>
             <DialogTitle>Termos de Uso</DialogTitle>
             <DialogDescription>
-              Jovem Lanchonete e Pizzaria LTDA — CNPJ 53.139.526/0001-13
+              Beatriz Danielli Dias - CNPJ 51.536.628/0001-47
             </DialogDescription>
           </DialogHeader>
           <div className="space-y-4 text-sm leading-relaxed text-muted-foreground">
